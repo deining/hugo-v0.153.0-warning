@@ -1,0 +1,6 @@
+ignoreLogs:
+- warning-home-page-is-leaf-bundle
+
+languages:
+  en:
+    contentDir: content/en
